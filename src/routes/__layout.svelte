@@ -1,5 +1,5 @@
 <script>
-  import '../styles/global.css'
+  import "../styles/global.css"
   import Nav from "$lib/nav.svelte"
 </script>
 
@@ -8,7 +8,7 @@
 </header>
 <main>
   <hr>
-  <slot></slot>
+  <slot/>
 </main>
 <footer>
   <hr>
